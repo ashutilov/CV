@@ -1,0 +1,155 @@
+{
+  "personal": {
+    "name": "Shutilov Aleksandr",
+    "phone": "+38-050-316-37-93",
+    "email": "ashutilov@ukr.net",
+    "web": "LinkedIn",
+    "skype": "ashutilov",
+    "birth": "22.07.1985"
+  },
+  "education": [
+    {
+      "date": "2009-2011",
+      "school": "Odessa State Economics University",
+      "description": "Finance faculty, Master degree, Economist"
+    },
+    {
+      "date": "2002-2007",
+      "school": "Odessa National Telecommunications Academy",
+      "description":
+        "Communication Networks faculty, Master degree, Telecommunication engineer"
+    },
+    {
+      "date": "2000-2002",
+      "school": "Odessa State Courses of Foreign Languages",
+      "description": "English"
+    }
+  ],
+  "experience": [
+    {
+      "date": "Jan 2016 - present",
+      "company": "TAS Link",
+      "position": "Deputy Head of Ecommerce Division",
+      "description": [
+        "Front-end development (JavaScript – ES5 & ES6, JQuery, AJAX, HTML, CSS, Bootstrap, Foundation, Git, npm, Gulp). Mainly JavaScript development (web services & sites) for ecommerce purposes (payments, P2P transfers, tokenization, etc.)",
+        "Basic knowledge and experience in back-end development (PHP, NodeJS, SQL, Linux, Apache)"
+      ]
+    },
+    {
+      "date": "May 2013 – Dec 2015",
+      "company": "TAS Link",
+      "position": "Customer Info Service Head",
+      "description": [
+        "Contact Center implementation from scratch",
+        "Testing and implementing Oktell software",
+        "Basic SQL, PHP development",
+        "Supporting SharePoint information base",
+        "Testing and implementing IVR system for automatic balance check of Visa and MasterCard payment cards"
+      ]
+    },
+    {
+      "date": "Aug 2011 - May 2013",
+      "company": "Prominvestbank",
+      "position": "Customer Service & Quality Head",
+      "description": [
+        "Acting Contact Center Head",
+        "Developing and implementing Contact Center strategy",
+        "Quality Management and customer issues escalating, SLA adherence monitoring",
+        "Developing and implementing Complaint management and Cross-Functional Interaction concept",
+        "Complaint management CRM processes design",
+        "Oracle CRM UAT design and delivery",
+        "Forecasting, reporting and analysis",
+        "Customer Service Processes design and development",
+        "Branch centralization project member"
+      ]
+    },
+    {
+      "date": "Jan 2011 - Aug 2011",
+      "company": "Raiffeisen Bank Aval",
+      "position": "Deputy Head of Retail Loan Processes Support Department",
+      "description": [
+        "Optimization of the Department performance",
+        "Business Process Management",
+        "Capacity & Efficiency Management"
+      ]
+    },
+    {
+      "date": "Jan 2010 - Dec 2010",
+      "company": "Raiffeisen Bank Aval",
+      "position": "Head of Collateral Loan Reinsurance Team",
+      "description": [
+        "Team Building and managing 30+ department",
+        "Ensuring mortgage loan insurance targets are met",
+        "Developing Department performance and processes",
+        "Launching outbound process based on Cisco ICM ",
+        "KPIs dashboard design",
+        "Performance management",
+        "Systems and software developing, installing, testing and supporting",
+        "Technical and technological support"
+      ]
+    },
+    {
+      "date": "Aug 2008 - Dec 2009",
+      "company": "Raiffeisen Bank Aval",
+      "position": "Head of Information Support Sector Retail OPS Department",
+      "description": [
+        "Development of job descriptions, regulations, standards of customer service",
+        "Development and delivery of trainings for 200+ employees",
+        "Forecasting, performance and people management",
+        "Analysis and reporting",
+        "Customer service quality project member"
+      ]
+    },
+    {
+      "date": "Sept 2007 - Aug 2008",
+      "company": "МТС Ukraine",
+      "position": "Group Leader of Call Center",
+      "description": [
+        "Organization, control and assessment of individual and group staff performance"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "date": "2014",
+      "name": "IELTS",
+      "authority": "British Council"
+    },
+    {
+      "date": "2011",
+      "name": "6 Sigma & Lean Process Optimization",
+      "authority": "Financial Academy Raiffeisen Bank Aval"
+    },
+    {
+      "date": "2010",
+      "name": "Master of Call Centre Management",
+      "authority": "Apex Berg consulting"
+    },
+    {
+      "date": "2009",
+      "name": "Management workshop",
+      "authority": "Financial Academy Raiffeisen Bank Aval"
+    },
+    {
+      "date": "2009",
+      "name": "Coaching",
+      "authority": "Financial Academy Raiffeisen Bank Aval"
+    },
+    {
+      "date": "2007",
+      "name": "Command co-operation",
+      "authority": "KIY"
+    }
+  ],
+  "achievements": [
+    "More than 3 years of software development experience (web-services, web-sites, JavaScript libraries)",
+    "Dozens of successfully launched industrial projects such as: online money transfer services from card to card, card to phone or card to email (link to announcement), online public utilities (Kyiv / Odessa), insurance services, cellphone replenishment, crediting and debiting repayment services",
+    "Implementation and administration of Oktell software (inbound, outbound, IVR, call routing, integration with DB, statistics)",
+    "Introduction and administration of preview and predictive outbound based on Cisco ICM.",
+    "Participation in Oracle CRM implementation and further administration as part of service requests",
+    "JavaScript library development for integration with the One Click / Master Pass service from MasterCard",
+    "SharePoint (development of internal 'Knowledge Base')",
+    "Bonus Management System (internal company service for administering bonus points)",
+    "Pay Link – merchants platform (front-end development from scratch and support)"
+  ]
+}
